@@ -1,6 +1,8 @@
   Density Functional Theory, Geometry Optimization, Potential Energy Surface of H2O and H2O2
   This document will be used to provide information on calculations ran, results, and measurments of bond angles/lengths from the          calculations ran
 
+
+
 Single Point Energy Caluclations (CP2K)
 H2O molecule
 Time- H2O energy: 11.669 seconds
@@ -9,6 +11,7 @@ Time- H2O energy: 11.669 seconds
 H2O2 molecule
 Time- H2O2 energy: 17.741 seconds
 --
+
 
 
 
@@ -22,6 +25,8 @@ H2O2 molecule
 Time- H2O2 geom opt: 118.742 seconds
 -The geometry optimization calculation took 101.001 seconds longer than the single-point energy calculation 
 --Observing the graph plotted of the total energy, the energy gradually reduces approaching the second optimization step. Between the second and fourth optimization step, the energy appears to have a small peak. The energy then begins to decrease towards the fourth optimization step, and eventually remains stable at the seventh optimization step reaching the local minima of -33.1251478989. 
+
+
 
 
 Visualization (Avogadro)
@@ -44,6 +49,8 @@ _O-H bond length- 0.985 Angstroms
 _O-O bond length- 1.488 Angstroms 
 _H-H bond length- 2.622 Angstroms
 _dihedral angle- -179.333 degrees
+
+
 
 
 Difference between the CP2K input files for the geometry optimization and Single-point Energy Calculation
