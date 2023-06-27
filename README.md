@@ -54,6 +54,7 @@ _dihedral angle- -179.333 degrees
 
 
 Difference between the CP2K input files for the geometry optimization and Single-point Energy Calculation
+```
 <  RUN_TYPE ENERGY 
 ---
 >  RUN_TYPE GEO_OPT 
@@ -80,6 +81,6 @@ Difference between the CP2K input files for the geometry optimization and Single
 > O         -1.22146        2.10626        0.00000
 > H         -0.25146        2.10626        0.00000
 > H         -1.54479        2.59417        0.77350
-
+```
 
   
